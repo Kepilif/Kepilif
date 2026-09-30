@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-labelledby="title desc">
+  <title id="title">StoryLab — od danych do wniosków</title>
+  <desc id="desc">Jasny baner w kolorach StoryLab z hasłem Dane nabierają znaczenia i dekoracyjną linią.</desc>
+  <rect width="1100" height="240" rx="12" fill="#faf8f2"/>
+  <path d="M40 28H1060" stroke="#dcded3"/>
+  <text x="46" y="61" fill="#914326" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">STORYLAB / KEPILIF</text>
+  <text x="44" y="125" fill="#223b3b" font-family="Georgia,serif" font-size="51">Dane nabierają</text>
+  <text x="44" y="187" fill="#914326" font-family="Georgia,serif" font-size="57" font-style="italic">znaczenia.</text>
+  <rect x="705" y="49" width="348" height="152" rx="8" fill="#e8eee4"/>
+  <path d="M731 82H1027M731 124H1027M731 166H1027" stroke="#cfd8cd"/>
+  <path d="M731 159C775 159 767 125 808 136S841 171 877 119S921 131 960 95S998 102 1027 74" fill="none" stroke="#223b3b" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="877" cy="119" r="6" fill="#914326"/>
+  <circle cx="1027" cy="74" r="5" fill="#914326"/>
+</svg>
