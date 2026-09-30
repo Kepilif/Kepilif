@@ -12,12 +12,12 @@ Rozwijam **StoryLab** — portfolio historii o klientach, sporcie, gospodarce i 
 
 ## Wybrane projekty
 
-- **[Smart Garden Data Pipeline](https://github.com/Kepilif/smart_garden_project)** — pomiary z czujników przez MQTT i Python do PostgreSQL; dashboard Django/Chart.js oraz moduł prognozowania temperatury. Projekt rozwijany iteracyjnie.
-- **[Home Assistant Warehouse](https://github.com/Kepilif/smart_garden_project/tree/main/ha_warehouse)** — cykliczny import z REST API do PostgreSQL, uzupełnianie danych historycznych, deduplikacja oraz widoki SQL do kontroli jakości i porównywania pomiarów z prognozami pogody.
 - **[Segmentacja klientów e-commerce](https://kepilif.github.io/storylab/stories/ecommerce_segmentation/)** — analiza zachowań zakupowych, RFM, KMeans i reguły koszykowe. Od danych do hipotez marketingowych.
 - **[NBA Scouting Patterns](https://kepilif.github.io/storylab/stories/nba_scouting_patterns/)** — profile zawodników, wiek, pochodzenie i statystyki sezonowe. Eksploracja z jawnymi ograniczeniami danych.
 - **[Temperatura — prognoza i rzeczywistość](https://kepilif.github.io/storylab/stories/globalne_ocieplenie/)** — szeregi czasowe FAOSTAT i Copernicus, benchmarki oraz ocena prognoz ARIMA i SARIMA.
 - **[Polski dług publiczny](https://kepilif.github.io/storylab/stories/public_debt_storytelling/article/polski_dlug_publiczny_story.html)** — porównanie miar PDP i EDP oraz interpretacja zmian zadłużenia w zapisanych danych z lat 2001–2025.
+- **[Smart Garden Data Pipeline](https://github.com/Kepilif/smart_garden_project)** — pomiary z czujników przez MQTT i Python do PostgreSQL; dashboard Django/Chart.js oraz moduł prognozowania temperatury. Projekt rozwijany iteracyjnie.
+- **[Home Assistant Warehouse](https://github.com/Kepilif/smart_garden_project/tree/main/ha_warehouse)** — cykliczny import z REST API do PostgreSQL, uzupełnianie danych historycznych, deduplikacja oraz widoki SQL do kontroli jakości i porównywania pomiarów z prognozami pogody.
 
 ## Warsztat
 
