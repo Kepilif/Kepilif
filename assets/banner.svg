@@ -3,7 +3,7 @@
   <desc id="desc">Jasny baner w kolorach StoryLab z hasłem Dane nabierają znaczenia i dekoracyjną linią.</desc>
   <rect width="1100" height="240" rx="12" fill="#faf8f2"/>
   <path d="M40 28H1060" stroke="#dcded3"/>
-  <text x="46" y="61" fill="#914326" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">STORYLAB / KEPILIF</text>
+  <text x="46" y="61" fill="#914326" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">STORYLAB / JACEK FILIPEK</text>
   <text x="44" y="125" fill="#223b3b" font-family="Georgia,serif" font-size="51">Dane nabierają</text>
   <text x="44" y="187" fill="#914326" font-family="Georgia,serif" font-size="57" font-style="italic">znaczenia.</text>
   <rect x="705" y="49" width="348" height="152" rx="8" fill="#e8eee4"/>
